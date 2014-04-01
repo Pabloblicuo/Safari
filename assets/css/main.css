@@ -405,7 +405,7 @@ hr {
     width: 100%}
 #services {
     background: #1abc9c;
-    margin-top: 25px;
+    margin-top: 0px;
     padding-top: 35px;
     padding-bottom: 35px;
 }
@@ -456,8 +456,6 @@ hr {
 }
 #bloques h3 {
     background: #fff;
-    padding-top: 0px;
-    padding-bottom: 0px;
     text-align: left;
 }
 
