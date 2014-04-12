@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     /* font-family: Raleway; */
-    font-family: Alegreya;
+    font-family: Lato;
     font-weight: 700;
     color: #333;
 }
@@ -26,10 +26,9 @@ p {
     font-size: 20px;
 }
 
-.pxs {
-    line-height: 23px;
-    margin-bottom: 25px;
-    font-size: 15px;
+.textorojo{
+    color: #ff5959;
+    font-weight: 400;
 }
 
 .fondorojo {
@@ -50,7 +49,7 @@ p {
     padding-top: 25px;
 }
 a {
-    color: #16a085;
+    color: #fff;
     word-wrap: break-word;
     -webkit-transition: color .1s ease-in, background .1s ease-in;
     -moz-transition: color .1s ease-in, background .1s ease-in;
@@ -59,7 +58,7 @@ a {
     transition: color .1s ease-in, background .1s ease-in;
 }
 a:hover, a:focus {
-    color: #7b7b7b;
+    color: #fff;
     text-decoration: none;
     outline: 0;
 }
@@ -111,6 +110,20 @@ hr {
     color: #fff;
     background-color: #FF5959;
     border-color: #FF5959;
+    font-weight: 300;
+}
+
+.btn-white {
+    color: #ff5959;
+
+    background-color: #fff;
+    border-color: #fff;
+    font-weight: 300;
+}
+.btn-white:hover, .btn-red:focus, .btn-red:active, .btn-red.active, .open .dropdown-toggle.btn-red {
+    color: #ff5959;
+    background-color: #ff8787;
+    border-color: #ff8787;
     font-weight: 300;
 }
 
