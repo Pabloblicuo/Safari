@@ -26,6 +26,12 @@ p {
     font-size: 20px;
 }
 
+.pxs {
+    line-height: 23px;
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
 .fondorojo {
     background: #FF5959;
 }
