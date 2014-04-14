@@ -681,3 +681,13 @@ hr {
     opacity: 1;
 }
 }
+
+.btn-linked{
+transition:all 0;
+font-weight:400;
+}
+
+.btn-linked:hover{
+color:white;
+font-weight:400;
+}
